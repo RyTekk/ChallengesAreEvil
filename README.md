@@ -2,18 +2,6 @@
 
 Remove your challenge tokens from profile banner with 1-click-button solution.
 
-## App preview:
-
-![Alt text](app.png)
-
-## Download
-
-Pick only one. If in doubt - pick the first option.
-
-[Grab latest release executable file here.](https://github.com/MaciejGorczyca/ChallengesAreEvil/releases/latest)
-
-[Grab latest Powershell script version here.](https://raw.githubusercontent.com/MaciejGorczyca/ChallengesAreEvil/master/removeTokens.ps1)
-
 ## Description
 
 ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil.
@@ -43,16 +31,3 @@ Some anti-viruses detect the app as some generic virus. It is obviously false po
  
   
 Thanks to [@kovimilu](https://github.com/kovimilu) for Powershell script.
- 
-## Donation
-
-The software is open source and provided to you for free. If you like it consider sending a donation:
- 
-#### 50 EUR stonks 🥳
-https://www.paypal.me/CoUsTme/50EUR
-#### 10 EUR ❤️
-https://www.paypal.me/CoUsTme/10EUR
-#### 5 EUR ❤️
-https://www.paypal.me/CoUsTme/5EUR
-#### 1 EUR ❤️
-https://www.paypal.me/CoUsTme/1EUR
